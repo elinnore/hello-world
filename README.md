@@ -1,4 +1,2 @@
 # hello-world
-first repo
-
-first edit
+Nothing here for now
